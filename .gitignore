@@ -4,6 +4,7 @@ target/
 ### IntelliJ IDEA ###
 .idea/
 *.iml
+screenshots/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
